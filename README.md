@@ -2,12 +2,13 @@
 
 # Quickstart
 
+
 ```sh
 $ git clone https://github.com/fabiandev/angular-quiz-app.git
 $ cd angular-quiz-app
 $ npm install
 $ npm start
-```
+``
 
 > Tip: You can use [yarn](https://yarnpkg.com/) instead of [npm](https://npmjs.com).
 
