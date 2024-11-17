@@ -11,11 +11,11 @@ $ npm start
 
 > Tip: You can use [yarn](https://yarnpkg.com/) instead of [npm](https://npmjs.com).
 
-# Live Example
+<!-- # Live Example
 
 See this project in action:
 
-[https://fabiandev.io/angular-quiz-app/](https://fabiandev.io/angular-quiz-app/)
+[https://fabiandev.io/angular-quiz-app/](https://fabiandev.io/angular-quiz-app/) -->
 
 # Credits
 
